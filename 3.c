@@ -1,12 +1,7 @@
 <<<<<<< HEAD
 etet
 etet
-etet
-etet
-etetp
-tttt
-
-=======
+et
 pppp
 pppp
 pppp
